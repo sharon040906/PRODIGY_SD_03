@@ -13,15 +13,13 @@ A simple application to store, manage, and retrieve contact details.
 - Java
 - Eclipse IDE
 
-## 📌 How to Run
-(Write based on your language)
-
 ## 💡 Learning Outcomes
 - Data management
 - CRUD operations
 - Structuring programs efficiently
-## 🧠 Key Concepts Explained
 
+ 
+## 🧠 Key Concepts Explained
 ### 🔹 CRUD Operations
 CRUD stands for Create, Read, Update, and Delete — the basic operations used to manage data in applications.
 
